@@ -1,4 +1,6 @@
 package com.walterfurrer.bankingapp
 
-class Customer {
-}
+class Customer(
+    name: String,
+    
+)
