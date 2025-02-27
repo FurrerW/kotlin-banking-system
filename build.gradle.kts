@@ -2,7 +2,7 @@ plugins {
     kotlin("jvm") version "2.1.10"
 }
 
-group = "io.github.furrerw.bankingapp"
+group = "com.walterfurrer.bankingapp"
 version = "1.0-SNAPSHOT"
 
 repositories {
